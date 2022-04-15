@@ -8,6 +8,13 @@
 - 📫 How to reach me : procoder9973@gmail.com
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I am not afraid of coding interviews
+
+- Development Types
+  - [ ] FrontEnd
+  - [x] BackEnd
+  - [ ] FullStack
+  - [ ] Android
+  - [ ] Cloud  
 <!--
 **r-tron18/r-tron18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
