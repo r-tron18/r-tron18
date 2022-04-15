@@ -1,5 +1,13 @@
 # Hello <img src = "https://user-images.githubusercontent.com/38443304/121335760-831d0200-c938-11eb-920b-2a270adea5ee.gif" width="30" height="30">
 
+- 🔭 I’m currently working on Sharping My Java Skills
+- 🌱 I’m currently learning Java
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with Any Open Source Project with Proper Guidance
+- 💬 Ask me about Competitive Programming
+- 📫 How to reach me: mailto@procoder9973@gmail.com
+- 😄 Pronouns: He/Him/His
+- ⚡ Fun fact: I am not afraid of coding interviews
 <!--
 **r-tron18/r-tron18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
